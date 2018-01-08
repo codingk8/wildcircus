@@ -1,0 +1,132 @@
+/* Codingk8 - Wild circus 🎪 project - The project that got me into my coding bootcamp */
+
+body {
+    background: white;
+    width: 90%;
+    margin: auto;
+}
+
+nav {
+    display: inline-block;
+    width: 100%;
+    margin: auto;
+    text-align: center;
+    border-style: solid;
+    border-width: medium;
+    border-color: #336666;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+nav li {
+    display: inline-block;
+}
+
+nav ul {
+    list-style-type: none;
+}
+
+nav a {
+    color: #336666;
+    padding: 10px;
+    text-decoration: none;
+}
+
+nav a:hover {
+    background-color: #66cccc;
+    color: white;
+    border-radius: 10px;
+}
+
+h1,
+h2,
+.logo {
+    text-align: center;
+}
+
+h2 {
+    color: #ffcc00;
+    font-family: Comic Sans MS, Arial, Verdana, sans-serif;
+    font-size: 2em;
+}
+
+h1,
+h3 {
+    color: #cc3333;
+    font-family: Comic Sans MS, Arial, Verdana, sans-serif;
+}
+
+h3 {
+    margin-top: 40px;
+}
+
+h5 {
+    color: #336666;
+    font-family: Comic Sans MS, Arial, Verdana, sans-serif;
+    font-size: 2em;
+    margin-top: 10px;
+    text-align: center;
+}
+
+#container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.attractions {
+    width: 70%;
+    margin-right: 10px;
+}
+
+.aside {
+    width: 30%;
+}
+
+.imagecentre,
+.imagecentre1 {
+    text-align: center;
+}
+
+.aside {
+    background-color: #ffcc00;
+    border-color: #ffcc00;
+    border-style: solid;
+    border-radius: 10px;
+    padding: 10px;
+}
+.aside a {
+    color: #336666;
+}
+.aside a:hover {
+    font-size: 1.5em;
+    font-weight: bold;
+}
+.joke {
+    font-family: Comic Sans MS, Arial, Verdana, sans-serif;
+    font-size: 2em;
+    color: #ffcc00;
+    background-color: #cc3333;
+    border-color: #cc3333;
+    border-style: solid;
+    border-radius: 10px;
+    padding: 10px;
+    text-align: center;
+    width: 70%;
+    margin: auto;
+    margin-top: 20px;
+}
+.footer {
+    background: #336666;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    width: 70%;
+    border-radius: 10px;
+    margin: auto;
+    border-color: #336666;
+    border-style: solid;
+    margin-top: 20px;
+    border-width: medium;
+    font-family: Comic Sans MS, Arial, Verdana, sans-serif;
+}
