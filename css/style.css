@@ -132,10 +132,10 @@ h5 {
 }
 
 .footer a {
-    color: #336666;
+    color: white;
 }
 
 .footer a:hover {
-    color: white;
+    color: #336666;
     text-decoration: none;
 }
