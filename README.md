@@ -12,7 +12,7 @@ I used a little help from [Canva](https://canva.com) for the images and from the
 
 *Disclaimer: this project has no commercial purpose.*
 
-# 🇫🇷 Le projet Wild Circus
+# 🇫🇷 Le projet Wild Circus 🎪
 
 ## Ce projet est mon tout premier projet HTML | CSS | JS, celui qui m'a permis de rentrer dans mon école de code.
 
