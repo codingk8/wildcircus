@@ -6,7 +6,7 @@
 
 Everything was brand new and thrilling. It was a lot of fun to do!  
 
-I used a little help from [Canva](https://canva.com) for the images and from the [cirque du soleil](https://www.cirquedusoleil.com/) for the inspiration and the outbound links.
+I used a little help from [Canva](https://canva.com) for the images and from the [Cirque du soleil](https://www.cirquedusoleil.com/) for the inspiration and the outbound links.
 
 > Hosted demo website: [Wild circus](https://codingk8.github.io/wildcircus/)
 
@@ -18,7 +18,7 @@ I used a little help from [Canva](https://canva.com) for the images and from the
 
 Tout était nouveau et fascinant. Cela a été très amusant de le faire !
 
-Il a été réalisé avec l'aide de [Canva](https://canva.com) pour les illustrations et du [cirque du soleil](https://www.cirquedusoleil.com/fr) pour l'inspiration et pour les liens sortants.
+Il a été réalisé avec l'aide de [Canva](https://canva.com) pour les illustrations et du [Cirque du soleil](https://www.cirquedusoleil.com/fr) pour l'inspiration et pour les liens sortants.
 
 > Site de démo hébergé : [Wild circus](https://codingk8.github.io/wildcircus/)
 

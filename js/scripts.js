@@ -33,7 +33,7 @@ $(".aside").on("mouseleave", function() {
 })
 
 $(".joke").on("mouseenter", function() {
-	$(this).html("This is a joke :-) But they really are wonderful!");
+	$(this).html("This is a joke :-) But they are really wonderful!");
 	$(this).css("background-color", "#66cccc");
 })
 

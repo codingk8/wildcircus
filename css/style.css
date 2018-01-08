@@ -130,3 +130,12 @@ h5 {
     border-width: medium;
     font-family: Comic Sans MS, Arial, Verdana, sans-serif;
 }
+
+.footer a {
+    color: #336666;
+}
+
+.footer a:hover {
+    color: white;
+    text-decoration: none;
+}
