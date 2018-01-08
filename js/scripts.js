@@ -17,7 +17,7 @@ $(".imagecentre").on("mouseleave", function() {
 });
 
 $(".footer").on("mouseenter", function() {
-	$(this).css("background-color", "#66cccc");
+	$(this).css("background-color", "#ffcc00");
 })
 
 $(".footer").on("mouseleave", function() {
