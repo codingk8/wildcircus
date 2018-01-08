@@ -1,23 +1,24 @@
-<p align="center"><img src="https://s26.postimg.org/hrlfmruu1/wondersushilogotext250.png" alt="Wild circus ReadMe logo")</p>
+<p align="center"><img src="https://s26.postimg.org/jl24g4wyx/logowildcircus250.png" alt="Wild circus ReadMe logo")</p>
 
-# 🇬🇧 The Wild circus project
+# 🇬🇧 The Wild circus project 🎪
 
-## The Wild circus project ...
+## This project was my very first HTML | CSS | JS project, the one that got me into my coding bootcamp.
 
-xxxxx
+Everything was brand new and thrilling. It was a lot of fun to do!  
+
+I used a little help from [Canva](https://canva.com) for the images and from the [cirque du soleil](https://www.cirquedusoleil.com/) for the inspiration and the outbound links.
 
 > Hosted demo website: [Wild circus](https://codingk8.github.io/wildcircus/)
-
-(More technical elements soon 😉)
 
 *Disclaimer: this project has no commercial purpose.*
 
 # 🇫🇷 Le projet Wild Circus
 
-xxx
+## Ce projet est mon tout premier projet HTML | CSS | JS, celui qui m'a permis de rentrer dans mon école de code.
 
-Avec l'aide de Canva pour les images
-Les liens vers le Cirque du soleil...
+Tout était nouveau et fascinant. Cela a été très amusant de le faire !
+
+Il a été réalisé avec l'aide de [Canva](https://canva.com) pour les illustrations et du [cirque du soleil](https://www.cirquedusoleil.com/fr) pour l'inspiration et pour les liens sortants.
 
 > Site de démo hébergé : [Wild circus](https://codingk8.github.io/wildcircus/)
 
