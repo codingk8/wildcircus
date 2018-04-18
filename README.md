@@ -1,4 +1,4 @@
-<p align="center"><img src="https://s26.postimg.org/jl24g4wyx/logowildcircus250.png" alt="Wild circus ReadMe logo")</p>
+<p align="center"><img src="https://s26.postimg.cc/jl24g4wyx/logowildcircus250.png" alt="Wild circus ReadMe logo")</p>
 
 # 🇬🇧 The Wild circus project 🎪
 
