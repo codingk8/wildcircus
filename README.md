@@ -18,9 +18,7 @@
 ##### Requirements were:
 
 
-### How it works
-
-##### Built with:
+### Built with:
 * HTML
 * CSS
 * JavaScript
