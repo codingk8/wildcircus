@@ -1,10 +1,12 @@
-# The Wild circus 🎪 project
+# The Wild circus project  🎪
 
-## This project was my very first HTML | CSS | JS project, the one that got me into my coding bootcamp
+## This project was my very first coding project, the one that got me into my bootcamp
 
 ##### Everything was brand new and thrilling. It was a lot of fun to do!
 
 ## Screenshot + link to hosted demo website
+
+---
 
 <p align="center"><a href="https://codingk8.github.io/wildcircus/"><img src="https://github.com/codingk8/wildcircus/blob/master/images/wildcircus1650.png" alt="Wild circus ReadMe screan copy")</a></p>
 
@@ -32,7 +34,7 @@
 
 [Cirque du soleil](https://www.cirquedusoleil.com/) for the inspiration and the outbound links
 
-## *Disclaimer: this project has no commercial purpose.*
+#### *Disclaimer: this is a training project with no commercial purpose.*
 
 ---
 
