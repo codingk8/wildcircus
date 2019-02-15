@@ -1,4 +1,6 @@
-<p align="center"><img src="https://github.com/codingk8/wildcircus/blob/master/images/wildcircus1650.png" alt="Wild circus ReadMe screan copy")</p>
+### Screenshot + link
+
+<p align="center"><a href="https://codingk8.github.io/wildcircus/"><img src="https://github.com/codingk8/wildcircus/blob/master/images/wildcircus1650.png" alt="Wild circus ReadMe screan copy")</a></p>
 
 ---
 
