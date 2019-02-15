@@ -1,4 +1,4 @@
-# The Wild circus project  🎪
+<h1 align="center">The Wild circus project  🎪</h1>
 
 ## This project was my very first coding project, the one that got me into my bootcamp
 
