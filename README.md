@@ -1,5 +1,7 @@
 <p align="center"><img src="https://github.com/codingk8/wildcircus/blob/master/images/wildcircus1650.png" alt="Wild circus ReadMe screan copy")</p>
 
+---
+
 # 🇬🇧 The Wild circus project 🎪
 
 ## This project was my very first HTML | CSS | JS project, the one that got me into my coding bootcamp.
